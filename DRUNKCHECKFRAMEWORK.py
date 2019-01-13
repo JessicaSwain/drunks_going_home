@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 11 12:09:12 2019
+Version 1.0
+Created by Jessica Swain at the University of Leeds
 
 @author: jessicaswain
 """
