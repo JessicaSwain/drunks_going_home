@@ -3,6 +3,8 @@
 Spyder Editor
 
 This is a temporary script file.
+Version 1.0
+Created by Jessica Swain at the University of Leeds
 """
 
 #-----------------------------------IMPORTS----------------------------------#
